@@ -46,3 +46,14 @@ aside {
     box-shadow: inset 5px 0 5px -5px #29627e;
     color: darkgrey;
 }
+.footimage {
+  position: relative;
+
+}
+h3 {
+  position: absolute;
+  text-align: center;
+  color: white;
+  top: 50%;
+  left: 50%;
+}
