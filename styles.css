@@ -26,25 +26,34 @@ a {
   color: black;
   font-family: 'Fira Sans', sans-serif;
 }
-h3 {
-  font-family: 'Fira Sans', sans-serif;
+.maintext {
   color: #8ec3eb;
+  font-family: 'Fira Sans', sans-serif;
+}
+.cattext {
+  color: #8ec3eb;
+  font-family: 'Fira Sans', sans-serif;
+
 
 }
 h4 {
+  color: black;
   font-family: 'Fira Sans', sans-serif;
-  color: #8ec3eb;
+
 }
 aside {
     font-family: 'Fira Sans', sans-serif;
+    margin-right: 0;
     position: sticky;
-    width: 40%;
+    width: 30%;
     padding-left: 2rem;
-    position:
     margin-left: 4rem;
     float: right;
     box-shadow: inset 5px 0 5px -5px #29627e;
-    color: darkgrey;
+    color: black;
+}
+.details {
+  color: #8ec3eb;
 }
 .footimage {
   position: relative;
