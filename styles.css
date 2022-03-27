@@ -65,12 +65,23 @@ aside {
     box-shadow: inset 5px 0 5px -5px #29627e;
     color: black;
     overflow: auto;
+
 }
 .details {
   color: #8ec3eb;
 }
 .footimage {
   position: relative;
+
+}
+.catlogo {
+  position: absolute;
+  text-align: center;
+}
+.catfoot {
+  position: absolute;
+  text-align: center;
+
 }
 .callcats {
   position: relative;
