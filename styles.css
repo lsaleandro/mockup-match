@@ -1,8 +1,11 @@
-body {
-  margin: auto;
-  width: 100%;
-  overflow-x: hidden;
 
+head {
+  display: none;
+}
+body {
+  width: 100%;
+  right: -50px;
+  overflow-x: hidden;
 }
 
 .felinos {
@@ -10,7 +13,7 @@ body {
   color: white;
   position: sticky;
   margin: 0;
-  background-color: #0099cc;
+  background-color: #00bcd4;
   opacity: 1;
   padding-top: 50px;
   padding-right: 50px;
@@ -54,6 +57,16 @@ h4 {
   font-family: 'Fira Sans', sans-serif;
 
 }
+.aboutcat{
+  background-color: #d5e1df;
+
+}
+.aboutcat2 {
+  background-color: #d5e1df;
+}
+.aboutcat3 {
+  background-color: #d5e1df;
+}
 aside {
     font-family: 'Fira Sans', sans-serif;
     margin-right: 4px;
@@ -77,6 +90,7 @@ aside {
 .catlogo {
   position: absolute;
   text-align: center;
+  left: 300px;
 }
 .catfoot {
   position: absolute;
